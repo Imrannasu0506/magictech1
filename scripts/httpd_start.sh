@@ -1,4 +1,4 @@
 #!/bin/bash
-systemctl start httpd
-systemctl enable httpd
+systemctl start apache2
+systemctl enable apache2
 
